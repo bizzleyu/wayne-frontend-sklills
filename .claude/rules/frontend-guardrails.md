@@ -6,9 +6,8 @@
 
 - **主要语言**：TypeScript
 - **UI 框架**：React
-- **元框架**：Next.js
-- **样式方案**：Tailwind CSS / CSS Modules
-- **包管理器**：bun
+- **包管理器** pnpm
+ **组件库** 如果是pc端就用antd 如果是移动端则推荐技术栈
 
 ## 提交工作流
 
